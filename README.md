@@ -46,4 +46,3 @@ DELETE /api/v1/scans/+scan_id
 ```
 详情参考
 
-http://0cx.cc/about_awvs11_api.jspx
